@@ -1,6 +1,6 @@
 <h1 align="center">Hello there, My name is Mahdiyar 👋</h1>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/[your-linkedin-url]/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[your-linkedin-url]"></a>
   <a href="https://github.com/m-kafaiekhou"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/m-kafaiekhou"></a>
   <a href="mailto:m.kafaiekhou@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.kafaiekhou@gmail.com"></a>
