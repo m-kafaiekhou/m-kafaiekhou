@@ -1,26 +1,21 @@
-<h1 align="center">Hello there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hello there, My name is Mahdiyar 👋</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/[your-linkedin-url]/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[your-linkedin-url]"></a>
-  <a href="https://github.com/[your-github-username]"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/[your-github-username]"></a>
-  <a href="mailto:[your-email-address]"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[your-email-address]"></a>
+  <a href="https://github.com/m-kafaiekhou"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/m-kafaiekhou"></a>
+  <a href="mailto:m.kafaiekhou@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.kafaiekhou@gmail.com"></a>
 </p>
 
-<p align="center">I'm a [Your Profession] with [Number of Years] years of experience in [Your Expertise]. I'm passionate about [Your Passion].</p>
+<p align="center">I'm a Backend Developer with 0 years of experience in Django and SQL. I'm passionate about Cybersecurity.</p>
 
 <h2 align="center">My Skills</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
 
