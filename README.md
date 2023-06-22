@@ -6,10 +6,10 @@
   <a href="mailto:m.kafaiekhou@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.kafaiekhou@gmail.com"></a>
 </p>
 
-<div align="center>
+<p align="center>
     <p align="center">I'm a Backend Developer with 0 years of experience in Django and SQL. I'm passionate about 
 Cybersecurity.</p>
-</div>
+</p>
 
 <h2 align="center">My Skills</h2>
 
