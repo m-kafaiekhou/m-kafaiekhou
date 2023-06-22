@@ -5,11 +5,9 @@
   <a href="https://github.com/m-kafaiekhou"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/m-kafaiekhou"></a>
   <a href="mailto:m.kafaiekhou@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:m.kafaiekhou@gmail.com"></a>
 </p>
-
-<p align="center>
-    <p align="center">I'm a Backend Developer with 0 years of experience in Django and SQL. I'm passionate about 
+<br>
+<p align="center">I'm a Backend Developer with 0 years of experience in Django and SQL. I'm passionate about 
 Cybersecurity.</p>
-</p>
 
 <h2 align="center">My Skills</h2>
 
